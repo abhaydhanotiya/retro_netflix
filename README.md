@@ -1,4 +1,4 @@
-# Welcome to Netflix Retro 🍿 <img src="https://github.com/abhaydhanotiya/retro_netflix/Assets/blob/main/Images/logo.png?raw=true" alt="Netflix Retro Logo" width="40" height="40">
+# Welcome to Netflix Retro 🍿 <img src="https://github.com/abhaydhanotiya/retro_netflix/blob/main/assets/Images/logo.png?raw=true" alt="Netflix Retro Logo" width="40" height="40">
 
 Hello there! I am Netflix Retro, your ultimate throwback movie and TV show application designed to bring the nostalgia of classhttps://github.com/abhaydhanotiya/retro_netflixic entertainment to your fingertips. Crafted with love by our dedicated team of developers, I am here to take you on a journey down memory lane.
 
